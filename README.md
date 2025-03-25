@@ -61,3 +61,8 @@ Compatibility
 - Supports Windows, macOS
 - Minimal system resource usage
 
+- <img width="683" alt="Screenshot 2025-03-25 at 12 53 37" src="https://github.com/user-attachments/assets/6828bde5-6d93-498e-b1da-6dd740e13bb8" />
+<img width="660" alt="Screenshot 2025-03-25 at 10 58 19" src="https://github.com/user-attachments/assets/6aa1fce5-182f-4223-9716-08845d370bd4" />
+<img width="668" alt="Screenshot 2025-03-25 at 10 22 39" src="https://github.com/user-attachments/assets/55b5d61c-e3e4-4ec7-8398-266f5da55552" />
+
+
