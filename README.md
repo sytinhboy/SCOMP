@@ -58,6 +58,6 @@ Getting Started
 5. Drag & drop files to compress or extract.
 
 Compatibility
-- Supports Windows, macOS, and Linux
+- Supports Windows, macOS
 - Minimal system resource usage
 
